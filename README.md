@@ -1,5 +1,5 @@
 # ArduinoProjects
-Código com implementação de ligar vários leds
+Código com implementação de ligar vários leds e coloca-los a piscar
 
 
 
